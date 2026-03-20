@@ -7,7 +7,7 @@
 
 ## 🌐 Live Demo
 
-👉 **[View Live Site](https://your-username.github.io/jw-marriott-chandigarh/)**
+👉 **[View Live Site](https://lucee8.github.io/Resort-Sample-1/)**
 
 > Replace this link with your GitHub Pages URL after deployment (Settings → Pages → Enable).
 
